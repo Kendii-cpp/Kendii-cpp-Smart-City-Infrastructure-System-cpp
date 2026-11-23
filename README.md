@@ -28,8 +28,13 @@ validation.
 
 ## Group members
 
-1. Last Name, First Name (role)
-2. Last Name, First Name (role)
-3. Last Name, First Name (role)
-4. Last Name, First Name (role)
-5. Last Name, First Name (role)
+## Group members and roles
+
+| # | Member | Role |
+|---|---|---|
+| 1 | Delacruz, Kandiess, P. | Project Leader / System Integration |
+| 2 | Manzon, Deryll Angelene, F. | Data Management Developer |
+| 3 | Chen, Adelyn Kaye, R. | Algorithm Developer |
+| 4 | Castro, Alyana Jade, F. | Memory & Pointer Developer |
+| 5 | Estacio, Alejo Jay, E. | Matrix & Analytics Developer |
+| 6 | Espejo, Saira Ann, | QA / Documentation / Technical Lead |
