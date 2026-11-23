@@ -36,5 +36,4 @@ validation.
 | 2 | Manzon, Deryll Angelene, F. | Data Management Developer |
 | 3 | Chen, Adelyn Kaye, R. | Algorithm Developer |
 | 4 | Castro, Alyana Jade, F. | Memory & Pointer Developer |
-| 5 | Estacio, Alejo Jay, E. | Matrix & Analytics Developer |
-| 6 | Espejo, Saira Ann, | QA / Documentation / Technical Lead |
+| 5 | Espejo, Saira Ann, P. | Matrix & Analytics Developer |
